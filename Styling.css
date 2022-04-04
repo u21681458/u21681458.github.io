@@ -1,3 +1,17 @@
 #Heading1{
     background: bisque;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    font-size: 50pt;
+    border-radius: 10pt;
+}
+
+#Heading2{
+    text-align: center;
+    background:lightblue;
+    border: 2pt solid;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 15pt;
 }
